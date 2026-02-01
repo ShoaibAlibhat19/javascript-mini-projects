@@ -1,4 +1,4 @@
-const apiKey ="62bfa1cce530da6afafb4ae9b29b6074";
+const apiKey =" ";// Api key removed for security
 const apiUrl="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 
